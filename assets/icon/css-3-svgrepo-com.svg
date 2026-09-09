@@ -1,0 +1,14 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="100 75 600 700" width="600" height="700">
+	<style>
+		.s0 { fill: #1172b8 } 
+		.s1 { fill: #33aadd } 
+		.s2 { fill: #ffffff } 
+	</style>
+	<g id="Layer 1">
+		<g id="Папка 1">
+			<path class="s0" d="m150 700l-50-625h600l-50 625-250 75z"/>
+			<path class="s1" d="m650 125h-250v612.5l200-62.5z"/>
+			<path class="s2" d="m487.5 437.5h-250l-12.5-87.5 200-62.5h-200l-12.5-75h387.5l-12.5 87.5-162.5 62.5h150l-25 237.5-150 50-150-50-12.5-125h75l12.5 62.5 75 25 75-25z"/>
+		</g>
+	</g>
+</svg>
